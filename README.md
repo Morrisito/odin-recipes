@@ -5,3 +5,4 @@ To work on my HTML skills using:
     - creating a boilerplate 
     - implement strong and em
     - using different elements & attributes.
+    - PRACTICE PRACTICE!!!
