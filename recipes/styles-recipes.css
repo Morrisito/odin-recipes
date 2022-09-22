@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    background-color: aqua;
+    color: grey;
+}
+
+h3 {
+    color:blueviolet;
+}
+
+ul,ol {
+    background-color: aquamarine;
+    color: purple;
+}
+
+img {
+    height: auto;
+    width: 360px;
+}
